@@ -1,0 +1,11 @@
+course,store_type,test_cases,avg_precision_at_3,avg_latency_seconds,avg_answer_relevance,avg_faithfulness
+Cosc 402 (Information Theory),exams,1,1.0,N/A,N/A,N/A
+Cosc 402 (Information Theory),notes,2,1.0,N/A,N/A,N/A
+Cosc 423 (Artificial Intelligence),exams,1,1.0,N/A,N/A,N/A
+Cosc 423 (Artificial Intelligence),notes,2,1.0,N/A,N/A,N/A
+Cosc 430 (Hands On Java),notes,2,1.0,N/A,N/A,N/A
+Itgy 307 (Linux Fundamentals),exams,1,1.0,N/A,N/A,N/A
+Itgy 307 (Linux Fundamentals),notes,2,1.0,N/A,N/A,N/A
+Seng 412 (Internet Technology Php),exams,1,1.0,N/A,N/A,N/A
+Seng 412 (Internet Technology Php),notes,2,1.0,N/A,N/A,N/A
+OVERALL,all,14,1.0,N/A,N/A,N/A
